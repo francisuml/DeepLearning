@@ -25,7 +25,7 @@ TensorFlow
 Plotly
 
 You can install the required packages using:
-pip install numpy pandas matplotlib scikit-learn tensorflow plotly
+`pip install numpy pandas matplotlib scikit-learn tensorflow plotly`
 
 # Notebook Structure
 
@@ -73,7 +73,7 @@ Suggestions for further improvements (e.g., regularization, hyperparameter tunin
 
 Clone or download the notebook file.
 Ensure all dependencies are installed (see Prerequisites).
-Open the notebook in a Jupyter environment:jupyter notebook Neural_Network_Learning.ipynb
+Open the notebook in a Jupyter environment:jupyter notebook NeuralNetwork.ipynb
 
 
 Run the cells sequentially to follow the learning process.
