@@ -5,14 +5,16 @@ Malaria is a life-threatening disease caused by parasites transmitted through in
 
 ## Project Structure
 
+```
 malaria_project/
-  ├── data/ # Dataset (not included in repo)
-  ├── notebooks/ 
-  ├── models/ 
-  ├── output/
-  │ ├── OutputImages
-  └── requirements.txt
-  └── README.md 
+    ├── data/ # Dataset (not included in repo)
+    ├── notebooks/ 
+    ├── models/ 
+    ├── output/
+    │ ├── OutputImages
+    └── requirements.txt
+    └── README.md
+```
 
 
 ## Technical Approach
