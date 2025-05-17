@@ -1,11 +1,12 @@
 # DeepLearningDeep Learning Repository
+
 ## Overview
 Welcome to my Deep Learning Repository! This repository serves as a personal space to document my learning journey in deep learning, showcase projects, and share experiments using various deep learning frameworks and techniques. It is a collection of code, notebooks, and resources aimed at exploring and mastering deep learning concepts.
 
 ## Purpose
 
-**Learning**: Store tutorials, notes, and exercises as I progress through deep learning topics.
-**Projects**: Host implementations of deep learning models, including neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), and more.
+**Learning**: Store tutorials, notes, and exercises as I progress through deep learning topics.<br>
+**Projects**: Host implementations of deep learning models, including neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), and more.<br>
 **Experimentation**: Experiment with datasets, architectures, and optimization techniques to deepen my understanding.
 
 ## Contents
