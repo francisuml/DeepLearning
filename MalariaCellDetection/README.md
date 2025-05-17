@@ -1,5 +1,19 @@
 # Malaria Cell Detection Project
 
+## DataSet
+
+The MalariaSD dataset encompasses diverse stages and classes of malaria parasites, including Plasmodium falciparum, Plasmodium malariae, Plasmodium vivax, and Plasmodium ovale, categorized into four phases: ring, schizont, trophozoite, and gametocyte. This resource aids researchers and healthcare professionals in gaining critical insights into malaria's epidemiology, diagnosis, and treatment.The MP-IDB, featuring high-quality malaria parasite images with the four stages, offers an opportunity for developing and evaluating novel image processing and analysis techniques to enhance malaria diagnosis accuracy and efficiency. In our proposed paper, we utilized these images to create a new dataset using stable diffusion and advanced image processing methods.Applying stable diffusion, we generated a dataset with 16 distinct classes, focusing on single-celled images. Through cropping and enhancement techniques, we produced refined images. This new dataset underwent training via stable diffusion, resulting in an additional 20 images for each class. Our efforts significantly increased the image count from an average of 12 to 40 images per class in the original dataset. This paper contributes to malaria research by expanding the dataset through stable diffusion and image processing. The augmented dataset provides a more comprehensive representation of malaria parasite stages and classes, empowering researchers and healthcare professionals to enhance their understanding of malaria's complexities and improve diagnostic methodologies. The dataset contains 2 folders
+
+**[Reference](https://ieee-dataport.org/documents/malariasd-malaria-infected-cell-images-dataset)**
+
+- Infected
+- Uninfected
+- And a total of 27,558 images.
+  
+You can download the dataset in kaggle:
+
+**[Malaria Cell Images Dataset](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria)**
+
 ## Problem Definition
 Malaria is a life-threatening disease caused by parasites transmitted through infected mosquitoes. Rapid and accurate diagnosis is crucial for effective treatment. This project develops a deep learning model to classify cell images as either infected or uninfected with malaria parasites, assisting healthcare professionals in diagnosis.
 
