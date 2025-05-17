@@ -46,6 +46,8 @@ Install GPU support if needed (e.g., CUDA for TensorFlow or PyTorch).
 Current Projects
 
 - Heart Disease Classification with TensorFlow
+- Neural Networks
+- Malaria Cell Detection using CNN
 
 Check the repository over time for updates as I add more projects.
 
@@ -73,7 +75,7 @@ Thanks to the open-source community for providing powerful tools like TensorFlow
 Gratitude to educators and online resources that support my learning journey.
 
 Last Updated
-Wednesday, May 14, 2025, 10:42 AM +04
+Wednesday, May 17, 2025, 10:42 AM +04
 
 ## Author
 
