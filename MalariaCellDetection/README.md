@@ -7,14 +7,12 @@ Malaria is a life-threatening disease caused by parasites transmitted through in
 
 malaria_project/
   ├── data/ # Dataset (not included in repo)
-  ├── notebooks/ # Jupyter notebooks for development
-  ├── models/ # Saved model files
-  ├── api/ # Flask API implementation
-  │ ├── app.py # Flask application
-  │ ├── requirements.txt # Dependencies
-  │ └── ...
-  ├── monitoring/ # Monitoring setup
-  └── README.md # This file
+  ├── notebooks/ 
+  ├── models/ 
+  ├── output/
+  │ ├── OutputImages
+  └── requirements.txt
+  └── README.md 
 
 
 ## Technical Approach
