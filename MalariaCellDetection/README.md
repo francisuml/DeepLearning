@@ -4,6 +4,7 @@
 Malaria is a life-threatening disease caused by parasites transmitted through infected mosquitoes. Rapid and accurate diagnosis is crucial for effective treatment. This project develops a deep learning model to classify cell images as either infected or uninfected with malaria parasites, assisting healthcare professionals in diagnosis.
 
 ## Project Structure
+
 malaria_project/
   ├── data/ # Dataset (not included in repo)
   ├── notebooks/ # Jupyter notebooks for development
