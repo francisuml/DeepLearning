@@ -21,9 +21,9 @@ Malaria is a life-threatening disease caused by parasites transmitted through in
 
 ```
 malaria_project/
-    ├── data/ # Dataset (not included in repo)
-    ├── notebooks/ 
-    ├── models/ 
+    ├── Malaria_Cell_Detection_CNN.ipynb
+    ├── models/
+    │  ├── malaria_detection_model.keras
     ├── output/
     │ ├── OutputImages
     └── requirements.txt
