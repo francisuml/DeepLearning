@@ -5,15 +5,15 @@ Malaria is a life-threatening disease caused by parasites transmitted through in
 
 ## Project Structure
 malaria_project/
-├── data/ # Dataset (not included in repo)
-├── notebooks/ # Jupyter notebooks for development
-├── models/ # Saved model files
-├── api/ # Flask API implementation
-│ ├── app.py # Flask application
-│ ├── requirements.txt # Dependencies
-│ └── ...
-├── monitoring/ # Monitoring setup
-└── README.md # This file
+  ├── data/ # Dataset (not included in repo)
+  ├── notebooks/ # Jupyter notebooks for development
+  ├── models/ # Saved model files
+  ├── api/ # Flask API implementation
+  │ ├── app.py # Flask application
+  │ ├── requirements.txt # Dependencies
+  │ └── ...
+  ├── monitoring/ # Monitoring setup
+  └── README.md # This file
 
 
 ## Technical Approach
