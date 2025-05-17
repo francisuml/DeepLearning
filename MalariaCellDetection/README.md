@@ -75,19 +75,21 @@ Metrics: Accuracy + AUC
 
 Callbacks:
 
-Early stopping (patience=5)
+- Early stopping (patience=5)
 
-Learning rate reduction on plateau
+- Learning rate reduction on plateau
 
 Epochs: 30
 
 Batch Size: 32
 
 ### 5. Model Evaluation
-Dataset	Accuracy	AUC
-Training	95.31%	0.988
-Validation	92.81%	0.981
-Test	95.66%	0.990
+```
+Dataset	    Accuracy	AUC
+Training	95.31%	    0.988
+Validation	92.81%	    0.981
+Test	    95.66%	    0.990
+```
 
 Classification Report (Test Set):
 
