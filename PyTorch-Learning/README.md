@@ -61,19 +61,23 @@ pytorch-learning/
    ```bash
    git clone https://github.com/yourusername/pytorch-learning.git
    cd pytorch-learning
+   ```
 
 2. Create and activate conda environment:
    ```bash
     conda create -n pytorch-env python=3.8
     conda activate pytorch-env
+   ```
 
 4. Install dependencies:
    ```bash
     pip install -r requirements.txt
     Or install PyTorch directly:
+   ```
 
-   ```bash
+  ```bash
    conda install pytorch torchvision torchaudio -c pytorch
+  ```
 
 
 ## 📓 Notebooks Overview
@@ -85,13 +89,13 @@ Notebook	Description	Key Concepts
 Official Documentation
 PyTorch Docs
 PyTorch Tutorials
+
 **Recommended Books**
 "Deep Learning with PyTorch" by Eli Stevens et al.
 "Python Deep Learning" by Ivan Vasilev
 
 ### Courses
-PyTorch Zero to All
-Fast.ai Practical Deep Learning
+ZTM Pytorch Bootcamp
 
 ## 📈 Progress Tracking
 1. Tensor Basics
