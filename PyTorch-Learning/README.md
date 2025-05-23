@@ -1,6 +1,6 @@
 # PyTorch Learning Journey 🚀
 
-"Learning is not attained by chance, it must be sought for with ardor and attended to with diligence." — Abigail Adams
+**"Learning is not attained by chance, it must be sought for with ardor and attended to with diligence." — Abigail Adams**
 
 A comprehensive collection of PyTorch implementations, experiments, and learning resources as I master deep learning with PyTorch.
 
@@ -26,16 +26,17 @@ pytorch-learning/
 │ └── rnn/ # Recurrent neural networks
 │
 ├── computer_vision/ # CV applications
-│ ├── classification/
-│ └── segmentation/
+│ ├── classification/ # Image classification tasks
+│ └── segmentation/ # Image segmentation tasks
 │
 ├── nlp/ # Natural Language Processing
-│ ├── text_classification/
-│ └── language_modeling/
+│ ├── text_classification/ # Text classification models
+│ └── language_modeling/ # Language modeling approaches
 │
 ├── experiments/ # Experimental code and prototypes
 ├── utils/ # Helper functions and utilities
-└── README.md # This file
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
 
 ## 🎯 Key Learning Topics
 - **Core Concepts**
