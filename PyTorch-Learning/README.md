@@ -72,9 +72,8 @@ pytorch-learning/
 4. Install dependencies:
    ```bash
     pip install -r requirements.txt
-    Or install PyTorch directly:
    ```
-
+  Or install PyTorch directly:
   ```bash
    conda install pytorch torchvision torchaudio -c pytorch
   ```
