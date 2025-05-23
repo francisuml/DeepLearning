@@ -14,6 +14,7 @@ A comprehensive collection of PyTorch implementations, experiments, and learning
 - [How to Contribute](#-how-to-contribute)
 
 ## 🗂 Repository Structure
+```
 pytorch-learning/
 │
 ├── basics/ # Fundamental PyTorch operations
@@ -37,6 +38,7 @@ pytorch-learning/
 ├── utils/ # Helper functions and utilities
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
+```
 
 ## 🎯 Key Learning Topics
 - **Core Concepts**
