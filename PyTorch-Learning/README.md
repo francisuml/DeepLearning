@@ -83,6 +83,7 @@ pytorch-learning/
 
 Notebook	Description	Key Concepts
 00_PyTorch_Fundamentals.ipynb	Introduction to PyTorch Tensors	Tensor ops, GPU transfer
+01_PyTorch_Workflow.ipynb
 
 ## 📚 Resources
 Official Documentation
